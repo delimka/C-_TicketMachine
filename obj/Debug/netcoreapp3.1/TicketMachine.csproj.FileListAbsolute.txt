@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\bin\Debug\netcoreapp3.1\TicketMachine.exe
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\bin\Debug\netcoreapp3.1\TicketMachine.deps.json
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\bin\Debug\netcoreapp3.1\TicketMachine.runtimeconfig.json
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\bin\Debug\netcoreapp3.1\TicketMachine.runtimeconfig.dev.json
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\bin\Debug\netcoreapp3.1\TicketMachine.dll
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\bin\Debug\netcoreapp3.1\TicketMachine.pdb
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.AssemblyInfo.cs
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.dll
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.pdb
+C:\Users\Student\Desktop\TicketMachine\TicketMachine\obj\Debug\netcoreapp3.1\TicketMachine.genruntimeconfig.cache
